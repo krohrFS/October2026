@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krohr\\source\\repos\\OctLastDay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56E5D05D-227B-46B6-86A8-8C3F193E9AE1}|OctLastDay\\OctLastDay.vcxproj|C:\\Users\\krohr\\source\\repos\\OctLastDay\\OctLastDay\\OctLastDay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56E5D05D-227B-46B6-86A8-8C3F193E9AE1}|OctLastDay\\OctLastDay.vcxproj|solutionrelative:OctLastDay\\OctLastDay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OctLastDay.cpp",
+              "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\OctLastDay\\OctLastDay\\OctLastDay.cpp",
+              "RelativeDocumentMoniker": "OctLastDay\\OctLastDay.cpp",
+              "ToolTip": "C:\\Users\\krohr\\source\\repos\\OctLastDay\\OctLastDay\\OctLastDay.cpp",
+              "RelativeToolTip": "OctLastDay\\OctLastDay.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv2gAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T17:14:20.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
